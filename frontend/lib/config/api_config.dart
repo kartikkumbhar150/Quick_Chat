@@ -1,6 +1,6 @@
 class ApiConfig {
   // Change this to your backend IP/hostname when deploying
-  static const String baseUrl = 'http://10.0.2.2:5000'; // Android emulator → localhost
+  static const String baseUrl = 'http://192.168.1.100:5000'; // Android emulator → localhost
   // static const String baseUrl = 'http://localhost:5000'; // iOS simulator
 
   // Auth
